@@ -9,7 +9,10 @@
 
 ## Favorite languages
 
-- I have always liked java, but have become fond of python lately because of how much you can do with it. I have been using java for math (numerical methods), data science, cybersecurity, and just for fun.
+- I have always liked java, but have become fond of python lately because of how much you can do with it. I have been using python for math, data science, cybersecurity, and just for fun.
 
 ## Current and Future Projects
-
+- I've been working on a set of discord bots that help teach people about math and cybersecurity in simple language without giving them the answer.
+- I've also been making a suite of tools to help prep class materials to make teaching easier. It works by extracting text from pdfs with OCR and running sections through gpt-4 to generate supplemental material with slides, quiz questions, common misunderstanding / pitfalls, and other suggestions.
+- I've been learning to start projects using chatGPT and trying to get better at making custom instructions and using the API
+- Code not yet on github because its all still in pure "copied off of chatGPT" form, coming soon when cleaned up :)
