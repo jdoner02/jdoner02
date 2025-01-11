@@ -1,18 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-- My name is Jessica Doner and I am a double major in computer science and data science at Eastern Washington University.
+I’m Jessica Doner, a grad student in Applied Mathematics at Eastern Washington University. I studied Computer Science and Data Science as an undergrad and love working at the intersection of math, technology, and education. My goal is to create tools that are genuinely useful and make a difference.
 
-## What do I want to do?
+# About Me
 
-- I would eventually like to teach and do research, and use my skills to help others. I am interested in combining my skills in math and my love of science with the tools and tech available to make things that will help close equity gaps and make the world a better place.
-- I like to make scripts and automations and would like to make libraries of free tools to help people take advantage of things like OpenAI and other publically available APIs to improve their quality of life and accelerate learning and research. I'd ideally love to have a job where I just go around making scripts that make people's lives better. I am less concerned about money than I am with making an actual difference with the limited time I have to do so.
+I want to teach, do research, and build tools that solve real problems. I’m especially focused on using technology to close equity gaps and make learning more accessible. Whether it’s automating repetitive tasks, breaking down complicated ideas, or improving workflows, I enjoy coming up with creative solutions that actually help people.
 
-## Favorite languages
+In the long run, I’d love to focus my career on creating tools and scripts that make life easier for others. For me, making a positive impact is more important than chasing a paycheck.
 
-- I have always liked java, but have become fond of python lately because of how much you can do with it. I have been using python for math, data science, cybersecurity, and just for fun.
+# Languages I Use
 
-## Current and Future Projects
-- I've been working on a set of discord bots that help teach people about math and cybersecurity in simple language without giving them the answer.
-- I've also been making a suite of tools to help prep class materials to make teaching easier. It works by extracting text from pdfs with OCR and running sections through gpt-4 to generate supplemental material with slides, quiz questions, common misunderstanding / pitfalls, and other suggestions.
-- I've been learning to start projects using chatGPT and trying to get better at making custom instructions and using the API
-- Code not yet on github because its all still in pure "copied off of chatGPT" form, coming soon when cleaned up :)
+These days, Python is my go-to for its flexibility—I use it for everything from data analysis to automation to experimenting with AI. I also have a soft spot for Java since it’s where I first learned to code.
