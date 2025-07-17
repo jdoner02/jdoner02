@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m Jessica Doner, a grad student in Applied Mathematics at Eastern Washington University. I studied Computer Science, Data Science, and Cybersecurity as an undergrad and love working at the intersection of math, science, technology, and education. My goal is to create tools that are genuinely useful and make a difference.
+I’m Jessica Doner, a grad student in Applied Mathematics at Eastern Washington University. I studied Computer Science and Cybersecurity as an undergrad and love working at the intersection of math, data science, technology, and education. My goal is to create tools that are genuinely useful and make a difference.
 
 # About Me
 
