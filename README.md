@@ -1,13 +1,25 @@
-# Hi there 👋
+# Hey, I'm Jessica
 
-I’m Jessica Doner, a grad student in Applied Mathematics at Eastern Washington University. I studied Computer Science and Cybersecurity as an undergrad and love working at the intersection of math, data science, technology, and education. My goal is to create tools that are genuinely useful and make a difference.
+Graduate student instructor at Eastern Washington University. I teach [CSCD 210](https://jdoner02.github.io/cs-skill-tree/course-weekly.html?course=CSCD210) (intro Java) and I'm finishing my M.S. in Applied Mathematics with a focus on data science and operations research.
 
-# About Me
+I like building models of systems—degree requirements, job markets, course prerequisites—and turning them into tools that help people navigate complexity. Most of my projects start as "I wish this existed" and end up on my [homepage](https://jdoner02.github.io).
 
-I want to teach, do research, and build tools that solve real problems. I’m especially focused on using technology to close equity gaps and make learning more accessible. Whether it’s automating repetitive tasks, breaking down complicated ideas, or improving workflows, I enjoy coming up with creative solutions that actually help people.
+## What I'm Working On
 
-In the long run, I’d love to focus my career on creating tools and scripts that make life easier for others. For me, making a positive impact is more important than chasing a paycheck.
+**[CS Skill Tree](https://jdoner02.github.io/cs-skill-tree/)** — Interactive visualization of EWU's CS curriculum. Prerequisites as a graph, progress tracking with local storage, week-by-week concept maps with mastery levels. Built with D3.js, Svelte, and TypeScript. 130+ unit tests because I actually wanted it to work.
 
-# Languages I Use
+**[Cybersecurity Job Scraper](https://jdoner02.github.io/cybersecurity-job-scraper/)** — Pulls federal cyber/AI postings from USAJOBS daily. Working toward O*NET integration so students can see which skills they're missing.
 
-These days, Python is my go-to for its flexibility—I use it for everything from data analysis to automation to experimenting with AI. I also have a soft spot for Java since it’s where I first learned to code.
+**[EWU Cyber Games](https://jdoner02.github.io/ewu-cyber-games-portal/)** — Vibe-coded with middle schoolers at GenCyber camp. Scrappy, rough around the edges, but teaches basic cyber concepts through brain-rot energy.
+
+## The Research Direction
+
+Operations research meets education: how do we model student pathways through curricula? How do we connect coursework to workforce skills in ways that are actually useful? How do we surface what students don't know they don't know?
+
+I'm less interested in building things that are impressive and more interested in building things that are *useful*.
+
+## Elsewhere
+
+- [Homepage](https://jdoner02.github.io) — full project list and context
+- [CS Skill Tree Repo](https://github.com/jdoner02/cs-skill-tree) — the project I'm most proud of
+- jdoner@ewu.edu
