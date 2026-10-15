@@ -23,3 +23,7 @@ I'm less interested in building things that are impressive and more interested i
 - [Homepage](https://jdoner02.github.io) — full project list and context
 - [CS Skill Tree Repo](https://github.com/jdoner02/cs-skill-tree) — the project I'm most proud of
 - jdoner@ewu.edu
+
+## CYBR 101 lab key
+
+The public key for the CYBR 101 encryption lab is [instructor-public-key.pem](https://github.com/jdoner02/jdoner02/blob/main/instructor-public-key.pem). Direct download: https://raw.githubusercontent.com/jdoner02/jdoner02/main/instructor-public-key.pem
