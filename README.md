@@ -18,7 +18,7 @@ Due dates, grades, and the syllabus for each course are on Canvas, and Canvas wi
 
 My goal is to create tools that are genuinely useful and make a difference. These are the ones that are public:
 
-- **[Skill maps](https://cs.jdoner.me)** break CSCD 210, 211, and 240 into skills you can practice and check off, with practice for the Advanced Programming Exam.
+- **[Skill maps](https://cs.jdoner.me)** break CSCD 210, 211, and 240 into skills you can practice and check off, with practice for the Advancement Programming Exam.
 - **[Learn](https://learn.jdoner.me)** puts every lesson, reference page, and practice site I have made for these courses on one page.
 - **[MathScape](https://math.jdoner.me)** has lessons in reading order for 11 math courses, MATH 114 through MATH 380.
 - **[Infosec concept map](https://infosec.jdoner.me)** draws information security as circles inside circles. Tap one to zoom in.
